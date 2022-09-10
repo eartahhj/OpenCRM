@@ -8,5 +8,5 @@ The language used in coding is mainly Italian because I initially started this b
 This can be extended with differentTimesheet to include a Timesheet software inside the CRM.
 
 # Preview screenshot
-A screenshot to display how the Timesheet looks like
+A screenshot to display how the CRM looks like
 ![Interface screenshot](./differentCRM-screenshot1.png)
