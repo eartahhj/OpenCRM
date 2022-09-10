@@ -1,0 +1,7 @@
+#utente-barra { padding:5px; width:100%; background-color:steelblue; color:#FFF; border-bottom:1px solid #FFF; }
+#utente-barra h3 { margin:0; }
+#utente-barra { position:relative; }
+#utente-navigazione { position:absolute; right:0; top:0; }
+#utente-navigazione ul { display:inline-block; vertical-align:middle; list-style-type:none; }
+#utente-navigazione ul li a { color:#FFF; }
+#utente-navigazione li.sel a { font-weight:bold; color:#BBB; }
