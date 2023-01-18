@@ -2,7 +2,7 @@
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
-use differentCRM\SMTP\SMTPServer;
+use OpenCRM\SMTP\SMTPServer;
 
 require_once '../funzioni/smtp.php';
 require_once 'phpmailer/PHPMailer.php';

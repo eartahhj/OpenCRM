@@ -226,7 +226,7 @@ class Pagina
         global $_database; ?>
     </main>
     <footer>
-        <p>differentCRM - Versione: <a href="<?=Config::$basePath?>/changelog.txt"><?=Config::$version?></a> - Ultimo aggiornamento: <?=Config::$lastUpdate?> |
+        <p>OpenCRM - Versione: <a href="<?=Config::$basePath?>/changelog.txt"><?=Config::$version?></a> - Ultimo aggiornamento: <?=Config::$lastUpdate?> |
             <a href="mailto:email@dominio.it?subject=<?=htmlentities('Bug')?>">Segnala un bug</a></p>
     </footer>
     </body>

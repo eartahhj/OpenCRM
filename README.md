@@ -1,4 +1,4 @@
-# differentCRM
+# OpenCRM
  PHP experimental CRM software (not ready to deploy)
 
 # Warning
@@ -9,4 +9,4 @@ This can be extended with differentTimesheet to include a Timesheet software ins
 
 # Preview screenshot
 A screenshot to display how the CRM looks like
-![Interface screenshot](./differentCRM-screenshot1.png)
+![Interface screenshot](./OpenCRM-screenshot1.png)

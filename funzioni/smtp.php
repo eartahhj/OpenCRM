@@ -1,5 +1,5 @@
 <?php
-namespace differentCRM\SMTP;
+namespace OpenCRM\SMTP;
 
 class SMTPServer
 {
